@@ -5,7 +5,7 @@
 
 ## To execute programs<br>
 <code>gedit filename.c
-gcc filename.c -lGL -lGLU -lglut
+gcc filename.c -lGL -lGLU -lglut <br>
 ./a.out</code>
 
 ### To download code

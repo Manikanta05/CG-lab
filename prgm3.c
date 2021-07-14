@@ -1,5 +1,3 @@
-
-
 //3. Draw a colour cube and spin it using OpenGL transformation matrices.
 //program to rotate a cube
 #include<GL/glut.h>
@@ -88,6 +86,3 @@ glutMouseFunc(mouse);
 glEnable(GL_DEPTH_TEST);                 
 glutMainLoop();
 }
-
-
-
